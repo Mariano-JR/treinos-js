@@ -14,3 +14,4 @@ Repositorio de treino para **JavaScript**
 10. Modulos
 11. Orientações a Objetos
 12. DOM
+13. Typescript
