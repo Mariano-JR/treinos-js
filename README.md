@@ -11,3 +11,6 @@ Repositorio de treino para **JavaScript**
 7. Array - Map, filter e reduce
 8. Tratamento de erros
 9. Assincrono
+10. Modulos
+11. Orientações a Objetos
+12. DOM
